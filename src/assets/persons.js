@@ -17305,5 +17305,21 @@ export const data = {
       country: "India"
     },
   },
+    {
+      id: uuidv4(),
+      name: "Aayush Rajput",
+      img: "https://images.app.goo.gl/ALMm3JudntH1WvCR6",
+      links: {
+        website: "https://aayushhh.github.io/website",
+        linkedin: "https://www.linkedin.comin/aayush-r-44a33a108/",
+        github: "https://github.com/aayushhh",
+      },
+      jobTitle: "Web Developer/Data Science",
+      location: {
+        city: "Gurugram",
+        state: "Haryana",
+        country: "India",
+      },
+    },
   ],
 }
